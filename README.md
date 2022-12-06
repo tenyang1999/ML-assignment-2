@@ -23,4 +23,3 @@ pip install xgboost
 
 ## 使用方法
 - 執行Classification_Task.ipynb即可，將Problem1的classifier與Problem2的Cross-validation皆寫入同一個檔案中
-- 
