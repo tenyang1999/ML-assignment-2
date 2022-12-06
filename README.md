@@ -22,4 +22,5 @@ pip install xgboost
 - tree.py，為決策樹分類器，可以直接取用於做分類任務，本次被引入random_forest.py，作為隨機森林的基底
 
 ## 使用方法
+- tidy_train.csv為已經前處理過後的
 - 執行Classification_Task.ipynb即可，將Problem1的classifier與Problem2的Cross-validation皆寫入同一個檔案中
