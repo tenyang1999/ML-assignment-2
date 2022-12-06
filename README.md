@@ -17,7 +17,10 @@ pip install pandas
 pip install sklearn
 pip install xgboost
 ```
-
-例如：
+- naive_bayes.py，為單純貝式分類器，於Classification_Task.ipynb直接import即可套用
+- random_forest.py，為隨機森林分類器，於Classification_Task.ipynb直接import即可套用
+- tree.py，為決策樹分類器，可以直接取用於做分類任務，本次被引入random_forest.py，作為隨機森林的基底
 
 ## 使用方法
+- 執行Classification_Task.ipynb即可，將Problem1的classifier與Problem2的Cross-validation皆寫入同一個檔案中
+- 
